@@ -78,6 +78,7 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 
 - Vague Prompt: Tell me about software engineering.
 - Improved prompt: Explain the key milestones in the evolution of software engineering.
+  
 Why it is more effective:
 
 - Clarity: The improved prompt directly asks for a specific aspect of software engineering (the evolution) rather than a broad, open-ended request. This makes it easier for the AI to understand the user’s request and provide a focused response.
